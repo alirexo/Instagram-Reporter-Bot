@@ -22,17 +22,17 @@ The robot is only for an educational project
 
 - Clone the repository first 
    
-    git clone https://github.com/alirexo/Instagram-Reporter-Bot.git
+    <p>git clone --depth=1 https://github.com/alirexo/Instagram-Reporter-Bot.git</p>
  
   
  - Then install the libraries in the requirements.txt file
   
-    pip install -r requirements.txt
+    <p>pip install -r requirements.txt</p>
   
   
  - Now run the bot
   
-    python ReportBot.py
+    <p>python ReportBot.py</p>
 
   
   <b>Made by Ali Atabak (ReXo)</b>
