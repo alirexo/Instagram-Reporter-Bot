@@ -15,7 +15,7 @@ The robot is only for an educational project
  
 
   
-<h3><p align="left">Installation</p></h3>
+<h3><p align="left">Installation</p></h3></br>
 
 - Clone the repository first 
    
@@ -24,7 +24,7 @@ The robot is only for an educational project
  
  - Now go to cloned directory and run `ReportBot.py`</br>
 
-    $cd Instagram-Reporter-Bot
+    $cd Instagram-Reporter-Bot</br></br>
  
  - Then install the libraries in the requirements.txt file
   
