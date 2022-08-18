@@ -10,8 +10,10 @@ The robot is only for an educational project
 !Before using the robot, one of the versions of <b>python 3.7 </b>and above must be installed on your system.
 
 <b>Made by Ali Atabak (ReXo)</b>
-
+  
+- !Before using the robot, one of the versions of python 3.7 and above must be installed on your system.
+  <h3><p align="Prerequisite">Rules</p></h3>
 
 <h3><p align="left">Installation</p></h3>
 
-- Clone the repository first -
+- Clone the repository first 
