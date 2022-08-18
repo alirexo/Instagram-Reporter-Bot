@@ -37,5 +37,5 @@ The robot is only for an educational project
     `python ReportBot.py`</br></br>
  
 
-  <p align="center">The last update of the robot is on 18/08/2013 and from now on no update will be published for this robot and it may not work anymore.</p>
+  <p align="center">The last update of the robot is on 08/18/2022 and from now on no update will be published for this robot and it may not work anymore.</p>
   <b>Made by Ali Atabak (ReXo)</b> 
