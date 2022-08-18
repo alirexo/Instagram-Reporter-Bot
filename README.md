@@ -11,7 +11,7 @@ The robot is only for an educational project
   
 <h3><p align="left">Prerequisite</p></h3>
   
-- !Before using the robot, one of the versions of <b>python 3.7</b> and above must be installed on your system.
+- !Before using the robot, one of the versions of <b>python 3.7</b> and above must be installed on your system.</br>
  
 
   
@@ -19,20 +19,21 @@ The robot is only for an educational project
 
 - Clone the repository first 
    
-    <p>git clone https://github.com/alirexo/Instagram-Reporter-Bot.git</p></br>
+   `git clone https://github.com/alirexo/Instagram-Reporter-Bot.git`</br>
+    
  
-  - Now go to cloned directory and run `ReportBot.py`</br>
+ - Now go to cloned directory and run `ReportBot.py`</br>
  
  
  - Then install the libraries in the requirements.txt file
   
-    <p>pip install -r requirements.txt</p></br>
+    `pip install -r requirements.txt`</br>
  
   
   
  - Now run the bot
   
-    <p>python ReportBot.py</p></br>
+    `python ReportBot.py`</br>
  
 
   
