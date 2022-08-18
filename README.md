@@ -5,15 +5,13 @@ A bot made with Python language that can be used to close and delete Instagram p
 
 The robot is only for an educational project
 
-<b>(!! Any illegal use of the robot is the responsibility of the audience !!)</b>
-
-!Before using the robot, one of the versions of python 3.7 and above must be installed on your system.</br>
-
-  
+<b>(!! Any illegal use of the robot is the responsibility of the audience !!)</b></br></br>
+ 
+ 
   
 <h3><p align="left">Prerequisite</p></h3>
   
-- !Before using the robot, one of the versions of python 3.7 and above must be installed on your system.
+- !Before using the robot, one of the versions of <b>python 3.7</b> and above must be installed on your system.
  
 
   
@@ -23,7 +21,9 @@ The robot is only for an educational project
    
     <p>git clone https://github.com/alirexo/Instagram-Reporter-Bot.git</p></br>
  
-  
+  - Now go to cloned directory and run `ReportBot.py`</br>
+ 
+ 
  - Then install the libraries in the requirements.txt file
   
     <p>pip install -r requirements.txt</p></br>
