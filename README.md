@@ -1,4 +1,5 @@
 # Instagram-Reporter-Bot
+<h3><p align="center">Rules</p></h3>
 
 A bot made with Python language that can be used to close and delete Instagram pages in the fastest way.
 
